@@ -1,0 +1,7 @@
+.slideinfo_parent{
+    width: 500px;
+    height: 800px;
+    background-color: rgb(53, 53, 53);
+    display: inline-block;
+    /* background: linear-gradient(to bottom, transparent, transparent, blue); */
+}
